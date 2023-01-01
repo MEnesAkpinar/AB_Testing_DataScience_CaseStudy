@@ -1,4 +1,6 @@
 
+## <p style="background-color:#FDFEFE; font-family:newtimeroman; color:#060108; font-size:200%; text-align:center; border-radius:10px 10px;">A/B Testing: Data Science Case Study</p>
+
 <a id="toc"></a>
 
 ## <p style="background-color:#9d4f8c; font-family:newtimeroman; color:#FFF9ED; font-size:150%; text-align:center; border-radius:10px 10px;">CONTENT</p>
